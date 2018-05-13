@@ -1,0 +1,3 @@
+# maven_class
+
+MAVEN
